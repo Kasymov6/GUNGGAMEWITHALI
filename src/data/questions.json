@@ -1,0 +1,278 @@
+[
+  {
+    "question": "Любимая фраза Кубата ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Хооороооошо"
+      },
+      {
+        "letter": "B",
+        "answer": "Давайте закоментируем"
+      },
+      {
+        "letter": "C",
+        "answer": "Акай,ты что тут делаешь?"
+      },
+      {
+        "letter": "D",
+        "answer": "пять плюс один"
+      }
+    ],
+    "correct": ["A"],
+    "reward": "$500"
+  },
+  {
+    "question": "Любимая фраза Акая ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Да,да,да!"
+      },
+      {
+        "letter": "B",
+        "answer": "Давайте в гугле поищем"
+      },
+      {
+        "letter": "C",
+        "answer": "Блин,я щас занят"
+      },
+      {
+        "letter": "D",
+        "answer": "Изи же"
+      }
+    ],
+    "correct": ["D"],
+    "reward": "$1,000"
+  },
+  {
+    "question": "Любимая фраза Нурбека ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Круто"
+      },
+      {
+        "letter": "B",
+        "answer": "Тащишь"
+      },
+      {
+        "letter": "C",
+        "answer": "Оказывается"
+      },
+      {
+        "letter": "D",
+        "answer": "Отлично"
+      }
+    ],
+    "correct": ["B"],
+    "reward": "$2,000"
+  },
+  {
+    "question": "Любимая фраза Каныкей ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Достал!"
+      },
+      {
+        "letter": "B",
+        "answer": "Умею гадать"
+      },
+      {
+        "letter": "С",
+        "answer": "Не помню!"
+      },
+      {
+        "letter": "D",
+        "answer": "Как дела?"
+      }
+    ],
+    "correct": ["С"],
+    "reward": "$4,000"
+  },
+  {
+    "question": "Любимая фраза Динары ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Блин"
+      },
+      {
+        "letter": "B",
+        "answer": "Прогуглить"
+      },
+      {
+        "letter": "C",
+        "answer": "Посмотрите у Индусов"
+      },
+      {
+        "letter": "D",
+        "answer": "В наше время такого не было"
+      }
+    ],
+    "correct": ["D"],
+    "reward": "$8,000"
+  },
+  {
+    "question": "Кто проживает на дне океана?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Спанч Боб"
+      },
+      {
+        "letter": "B",
+        "answer": "рыбы"
+      },
+      {
+        "letter": "C",
+        "answer": "осминоги"
+      },
+      {
+        "letter": "D",
+        "answer": "медузы"
+      }
+    ],
+    "correct": ["A"],
+    "reward": "$16,000"
+  },
+  {
+    "question": "Любимая фраза Гульайым ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "у вас все получится!"
+      },
+      {
+        "letter": "B",
+        "answer": "даа,жалко"
+      },
+      {
+        "letter": "C",
+        "answer": "Я подумаю"
+      },
+      {
+        "letter": "D",
+        "answer": "не знаю"
+      }
+    ],
+    "correct": ["D"],
+    "reward": "$32,000"
+  },
+  {
+    "question": "Любимое слово Тилека ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Отлично"
+      },
+      {
+        "letter": "B",
+        "answer": "не знаю"
+      },
+      {
+        "letter": "C",
+        "answer": "Дээ"
+      },
+      {
+        "letter": "D",
+        "answer": "базара нет"
+      }
+    ],
+    "correct": ["C", "D"],
+    "reward": "$64,000"
+  },
+  {
+    "question": "Любимая фраза Алихана ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "сща сделаем!"
+      },
+      {
+        "letter": "B",
+        "answer": "скелет-готов"
+      },
+      {
+        "letter": "C",
+        "answer": "ну там лучше всех будет"
+      },
+      {
+        "letter": "D",
+        "answer": "давайте поиграем в уно"
+      }
+    ],
+    "correct": ["A"],
+    "reward": "$125,000"
+  },
+  {
+    "question": "Любимая Фраза Манасa ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "ты помнишь мой день рождения?"
+      },
+      {
+        "letter": "B",
+        "answer": "Алихан,можешь идти во все четыре стороны"
+      },
+      {
+        "letter": "C",
+        "answer": "ты веришь Алихану?!"
+      },
+      {
+        "letter": "D",
+        "answer": "выпьем асу?"
+      }
+    ],
+    "correct": ["C"],
+    "reward": "$250,000"
+  },
+  {
+    "question": "Любимая фраза Мирбека ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "Не знаю"
+      },
+      {
+        "letter": "B",
+        "answer": "надо уметь гуглить"
+      },
+      {
+        "letter": "C",
+        "answer": "хорошо"
+      },
+      {
+        "letter": "D",
+        "answer": "пишу только на реакте"
+      }
+    ],
+    "correct": ["A"],
+    "reward": "$500,000"
+  },
+  {
+    "question": "Любимая фраза Аската ?",
+    "answers": [
+      {
+        "letter": "A",
+        "answer": "нормально делай,нормально будет"
+      },
+      {
+        "letter": "B",
+        "answer": "отлично"
+      },
+      {
+        "letter": "C",
+        "answer": "круто"
+      },
+      {
+        "letter": "D",
+        "answer": "изи же"
+      }
+    ],
+    "correct": ["A"],
+    "reward": "$1,000,000"
+  }
+]
